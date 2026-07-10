@@ -1,0 +1,21 @@
+module_id,name,product_metabolite,demand_reaction,added_reactions,added_metabolites,imbalanced_reactions,growth,max_product,product_at_min_growth,status,notes
+ac,acetate,Acetate[c],DM_Acetate_c,2,0,0,0.35541444333440037,7.660714285714294,2.4731511217015463,ok,
+etoh_pdc,Ethanol with Pdc and Adh,Ethanol[c],DM_Ethanol_c,2,0,1,0.3554144433344004,5.30952380952381,2.052259360262359,ok,1 module reaction(s) fail mass/charge balance check
+etylace,Ethyl acetate,etylace[c],DM_etylace_c,3,1,1,0.4880540421783416,3.4000000000000066,1.4274079059612577,ok,1 module reaction(s) fail mass/charge balance check
+etylbte,Ethyl butanoate,etylbte[c],DM_etylbte_c,8,5,3,0.48805404217834175,2.1249999999999987,0.9027896110821418,ok,3 module reaction(s) fail mass/charge balance check
+lac__D,D-Lactate,D_Lactate[c],DM_D_Lactate_c,1,1,1,0.35541444333440037,4.499999999999987,0.8916666666667586,ok,1 module reaction(s) fail mass/charge balance check
+ppoh,propanol,ppoh[c],DM_ppoh_c,10,5,5,0.35541444333440037,3.2043010752688184,0.8570726740638337,ok,5 module reaction(s) fail mass/charge balance check
+pyr,Pyruvate,Pyruvate[c],DM_Pyruvate_c,0,0,0,0.35541444333440037,3.8571428571428603,0.7650176848873727,ok,
+etylpte,Ethyl pentanoate,etylpte[c],DM_etylpte_c,15,8,8,0.48805404217834397,1.789473684210525,0.7137039529806221,ok,8 module reaction(s) fail mass/charge balance check
+btoh,butanol,btoh[c],DM_btoh_c,6,5,2,0.3554144433344005,2.8333333333333437,0.5944444444444419,ok,2 module reaction(s) fail mass/charge balance check
+ptoh,pentanol,ptoh[c],DM_ptoh_c,14,9,7,0.35541444333440053,2.2241379310344884,0.5095238095237952,ok,7 module reaction(s) fail mass/charge balance check
+ppylace,Propyl acetate,ppylace[c],DM_ppylace_c,11,6,5,0.35541444333440053,2.4807692307692473,0.4652173913043527,ok,5 module reaction(s) fail mass/charge balance check
+ibutoh,Isobutanol,ibutoh[c],DM_ibutoh_c,6,6,3,0.35541444333440037,0.5000000000000007,0.35666666666666497,ok,3 module reaction(s) fail mass/charge balance check
+ppylbte,Propyl butanoate,ppylbte[c],DM_ppylbte_c,16,10,7,0.35541444333440037,1.7654320987654288,0.33437500000000847,ok,7 module reaction(s) fail mass/charge balance check
+adpac,Adipic acid,adpac[c],DM_adpac_c,6,6,3,0.3554144433344005,2.596774193548388,0.3343750000000059,ok,3 module reaction(s) fail mass/charge balance check
+14btd,"1,4-Butanediol",14btd[c],DM_14btd_c,7,5,4,0.3554144433344005,2.4347826086956523,0.28918918918919184,ok,4 module reaction(s) fail mass/charge balance check
+btylbte,Butyl butanoate,btylbte[c],DM_btylbte_c,7,6,2,0.3554144433344003,1.5349999999999897,0.2815789473684367,ok,2 module reaction(s) fail mass/charge balance check
+ibutylace,Isobutyl acetate,ibutylace[c],DM_ibutylace_c,7,7,3,0.35541444333440037,0.4999999999999998,0.2609756097560993,ok,3 module reaction(s) fail mass/charge balance check
+ptylpte,Pentyl pentanoate,ptylpte[c],DM_ptylpte_c,15,10,8,0.3554144433344005,1.1727272727272686,0.24318181818181694,ok,8 module reaction(s) fail mass/charge balance check
+ibutylbte,Isobutyl butanoate,ibutylbte[c],DM_ibutylbte_c,12,11,5,0.3554144433344006,0.5000000000000007,0.21400000000000044,ok,5 module reaction(s) fail mass/charge balance check
+ibutylpte,Isobutyl pentanoate,ibutylpte[c],DM_ibutylpte_c,19,14,10,0.3554144433344005,1.2899999999999983,0.20188679245282914,ok,10 module reaction(s) fail mass/charge balance check
